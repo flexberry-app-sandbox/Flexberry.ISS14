@@ -1,0 +1,1 @@
+docker-compose -p iss14 up -d

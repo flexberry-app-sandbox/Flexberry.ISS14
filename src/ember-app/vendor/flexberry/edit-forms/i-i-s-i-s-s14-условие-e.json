@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ВидПоддержки",
+      "projection": "ВидПоддержкиL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Условие",
+  "name": "IISISS14УсловиеE",
+  "className": "УсловиеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s14-условие",
+      "modelProjection": "УсловиеE"
+    }
+  ]
+}
